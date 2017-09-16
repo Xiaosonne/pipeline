@@ -1,0 +1,8 @@
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\PipelineNotification\bin\Debug\PipelineNotification.pdb
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\PipelineNotification\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\PipelineNotification\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\PipelineNotification\obj\Debug\PipelineNotification.pdb
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\PipelineNotification\bin\Debug\PipelineNotification.dll
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\PipelineNotification\obj\Debug\PipelineNotification.dll
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Build\PipelineNotification.dll
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Build\PipelineNotification.pdb

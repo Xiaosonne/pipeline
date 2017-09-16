@@ -1,0 +1,13 @@
+c:\users\xiaosonne\documents\visual studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.exe.config
+c:\users\xiaosonne\documents\visual studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.exe
+c:\users\xiaosonne\documents\visual studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.pdb
+c:\users\xiaosonne\documents\visual studio 2017\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.exe
+c:\users\xiaosonne\documents\visual studio 2017\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.pdb
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.csprojResolveAssemblyReference.cache
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\PipelineNotification.dll
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\PipelineNotification.pdb
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Build\Pipeline.exe.config
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Build\Pipeline.exe
+C:\Users\xiaosonne\Documents\Visual Studio 2017\Projects\Pipeline\Build\Pipeline.pdb
